@@ -1,1 +1,5 @@
-Describe your project here
+Chiara's ESC REST floxed cells - with REST (Ctrl) and without REST (KO).
+
+Comparisons between Ctrl and KO are in Comparisons directory. Also with nearest REST peaks from Larry's data.
+
+Will try to run DeSeq on these samples too.

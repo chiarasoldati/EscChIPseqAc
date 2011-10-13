@@ -4,7 +4,9 @@
 *.swp
 results*
 data/*
+old_data
 Capfile.local
 *nohup*
 *.htaccess*
-	
+*.csv	
+comparisons/*.csv
